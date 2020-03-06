@@ -1,0 +1,13 @@
+C:\Users\Bharath\source\repos\UnitTest\UnitTest\bin\Debug\netstandard2.0\UnitTest.deps.json
+C:\Users\Bharath\source\repos\UnitTest\UnitTest\bin\Debug\netstandard2.0\UnitTest.dll
+C:\Users\Bharath\source\repos\UnitTest\UnitTest\bin\Debug\netstandard2.0\ref\UnitTest.dll
+C:\Users\Bharath\source\repos\UnitTest\UnitTest\bin\Debug\netstandard2.0\UnitTest.pdb
+C:\Users\Bharath\source\repos\UnitTest\UnitTest\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Bharath\source\repos\UnitTest\UnitTest\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Bharath\source\repos\UnitTest\UnitTest\obj\Debug\netstandard2.0\UnitTest.AssemblyInfoInputs.cache
+C:\Users\Bharath\source\repos\UnitTest\UnitTest\obj\Debug\netstandard2.0\UnitTest.AssemblyInfo.cs
+C:\Users\Bharath\source\repos\UnitTest\UnitTest\obj\Debug\netstandard2.0\UnitTest.dll
+C:\Users\Bharath\source\repos\UnitTest\UnitTest\obj\Debug\netstandard2.0\ref\UnitTest.dll
+C:\Users\Bharath\source\repos\UnitTest\UnitTest\obj\Debug\netstandard2.0\UnitTest.pdb
+C:\Users\Bharath\source\repos\UnitTest\UnitTest\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Bharath\source\repos\UnitTest\UnitTest\obj\Debug\netstandard2.0\UnitTest.csprojAssemblyReference.cache
